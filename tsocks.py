@@ -1,5 +1,4 @@
-#!/usr/bin/env python
-#coding:utf8
+#coding:utf-8
 '''
 How to generate key and cert,on linux run:
 openssl req -new -x509 -keyout cert.pem -out cert.pem -days 1095 -nodes
